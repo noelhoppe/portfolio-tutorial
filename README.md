@@ -1,6 +1,6 @@
 # Portfolio-Tutorial
 
-Das ist eine Portfolio Website, die ich anhand eines Videos nachgebaut habe.
+Das ist eine Portfolio Website, die ich anhand eines Videos nachgebaut habe!
 
 ## 🚀 Live-Demo
 
